@@ -1,0 +1,1 @@
+{"name":"Local: bai2","url":"d:\\java\\bai2.java","tests":[{"id":1793103537353,"input":"2\nINT1155 Tin hoc co so 2\nINT1306 Cau truc du lieu va giai thuat\n2\nGV01 Nguyen Van An\nGV02 Hoang Binh Minh\n2\nGV01 INT1155 113.2\nGV02 INT1306 126.72","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\bai2.java","group":"local","local":true}
