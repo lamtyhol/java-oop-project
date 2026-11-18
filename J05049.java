@@ -1,4 +1,4 @@
-//BẢNG THEO DÕI NHẬP XUẤT HÀNG
+//LIỆT KÊ NHẬP XUẤT HÀNG THEO NHÓM
 
 import java.util.*;
 
