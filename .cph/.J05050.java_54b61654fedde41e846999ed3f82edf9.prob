@@ -1,0 +1,1 @@
+{"name":"Local: J05050","url":"d:\\java\\J05050.java","tests":[{"id":1795062018697,"input":"3\nKD\n400\n555\nNN\n58\n400\nCN\n150\n700","output":"KH02 5 940500 940500 1881000\nKH03 2 605000 605000 1210000\nKH01 3 255750 255750 511500"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\J05050.java","group":"local","local":true}

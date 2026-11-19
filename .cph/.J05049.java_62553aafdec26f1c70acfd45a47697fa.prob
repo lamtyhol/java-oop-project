@@ -1,0 +1,1 @@
+{"name":"Local: J05049","url":"d:\\java\\J05049.java","tests":[{"id":1795010208965,"input":"3\nA001Y\n1000\nB012N\n2500\nB003Y\n4582\nB","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\java\\J05049.java","group":"local","local":true}
