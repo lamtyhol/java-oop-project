@@ -1,4 +1,3 @@
-
 //TÍNH GIỜ CHUẨN
 import java.io.File;
 import java.util.*;
